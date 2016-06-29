@@ -1,7 +1,7 @@
 # [worldofwarren.com version 1 (2010)](http://v1.worldofwarren.com)
 World of Warren Version 1 (Tokomon)
 
-worldofwarren.com is the Blog + Interests site site for for Warren Shea (Front-end Web Developer). This site is supposed to discuss thoughts, hobbies, and interests of Warren..
+worldofwarren.com is the Blog + Interests site site for for Warren Shea (Front-end Web Developer). This site is supposed to discuss thoughts, hobbies, and interests of Warren.
 
 ## Frameworks, Tools
 
